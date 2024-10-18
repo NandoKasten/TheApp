@@ -1,0 +1,35 @@
+{
+    "en": {
+        "pageTitle": "The Chat!",
+        "welcome": "Welcome to the App!",
+        "sidebarTitle": "Sidebar title",
+        "sidebarText1": "Sidebar text 1",
+        "sidebarText2": "Sidebar text 2",
+        "sidebarText3": "Sidebar text 3",
+        "api_key_prompt": "Please enter your OpenAI API key.",
+        "OpenAI API Key": "OpenAI API Key",
+        "clear_chat": "Clear the chat history",
+        "language_selection": "Select a language:",
+        "chat_input_placeholder": "Here you can write, young Padawan!",
+        "SaveAPIKey": "Save API Key"
+    },
+    "de": {
+        "pageTitle": "Der Chat!",
+        "welcome": "Willkommen bei der App!",
+        "api_key_prompt": "Bitte geben Sie Ihren OpenAI API-Schlüssel ein.",
+        "OpenAI API Key": "OpenAI API Key",
+        "clear_chat": "Chatverlauf löschen",
+        "language_selection": "Sprache auswählen:",
+        "chat_input_placeholder": "Hier kannst Du schreiben und den Bot erleben, junger Padawan!",
+        "SaveAPIKey": "Speichere API Key"
+    },
+    "es": {
+        "welcome": "¡Bienvenido al App!",
+        "api_key_prompt": "Por favor, introduce tu clave API de OpenAI.",
+        "OpenAI API Key": "OpenAI API Key",
+        "clear_chat": "Borrar el historial de chat",
+        "language_selection": "Selecciona un idioma:",
+        "chat_input_placeholder": "¡Aquí puedes escribir, joven Padawan!",
+        "SaveAPIKey": "Save API Key"
+    }
+}
